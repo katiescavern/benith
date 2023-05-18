@@ -1,0 +1,24 @@
+/* Existing styles... */
+
+#about .couple-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#about .couple-photo {
+  margin-bottom: 20px;
+}
+
+#about .couple-photo img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+#about .couple-description {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Existing styles... */
