@@ -1,0 +1,32 @@
+/* groom2.css */
+
+#zenith-bio {
+  padding: 40px 0;
+}
+
+#zenith-bio h2 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#zenith-bio .bio-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#zenith-bio .bio-photo {
+  margin-right: 30px;
+}
+
+#zenith-bio .bio-photo img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+#zenith-bio .bio-description {
+  text-align: justify;
+  max-width: 500px;
+}
